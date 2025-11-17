@@ -58,7 +58,7 @@
         <h1>TripTalk 隐私政策</h1>
         
         <div class="update-info">
-            <strong>最后更新：2024年12月20日 | 版本：2.1</strong>
+            <strong>最后更新：2025年11月15日 | 版本：2.1</strong>
         </div>
 
         <div class="section">
